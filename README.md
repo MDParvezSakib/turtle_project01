@@ -7,7 +7,7 @@ Welcome to the Turtle Graphics Project! This fun and creative Python project use
 Watch the video demonstration of this project here:  
 [▶️ Watch the Video](https://drive.google.com/file/d/1bbaRi4pBuwrdI-WXei4xdbo9VzEibk9r/view?usp=sharing)
 
-> 🔁 Replace `YOUR_VIDEO_ID` with your actual YouTube video ID or link.
+
 
 ## 🚀 Features
 
